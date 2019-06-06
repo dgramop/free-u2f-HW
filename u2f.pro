@@ -1,4 +1,4 @@
-update=Wed 05 Jun 2019 09:31:22 AM EDT
+update=Thu 06 Jun 2019 04:22:34 PM EDT
 version=1
 last_client=kicad
 [pcbnew]
@@ -60,3 +60,6 @@ LibName28=atmel
 LibName29=contrib
 LibName30=valves
 LibName31=ch554t
+LibName32=ch552t
+LibName33=usb_a
+LibName34=usbusb

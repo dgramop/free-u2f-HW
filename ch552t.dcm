@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ch552T
+D An 8051-based USB microcontroller
+K ch554, ch55x
+$ENDCMP
+#
+#End Doc Library

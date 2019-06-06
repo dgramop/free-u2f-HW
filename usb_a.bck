@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP USB_A
+D USB connector PCB EDGE
+K connector USB-A EDGE
+$ENDCMP
+#
+#End Doc Library
